@@ -1,5 +1,5 @@
 Summary:	f*ckf*ckb**b - a f*ckf*ck interpreter written in C++
-Summary(pl):	f*ckf*ckb**b - interpreter jêzyka f*ckf*ck napisany w C++
+Summary(pl.UTF-8):   f*ckf*ckb**b - interpreter jÄ™zyka f*ckf*ck napisany w C++
 Name:		ffb
 Version:	0.2
 Release:	1
@@ -18,10 +18,10 @@ f*ckf*ck language is described at
 http://www.chilliwilli.co.uk/ff/index.html .
 
 
-%description -l pl
-f*ckf*ckb**b to interpreter jêzyka f*ckf*ck napisany w C++.
+%description -l pl.UTF-8
+f*ckf*ckb**b to interpreter jÄ™zyka f*ckf*ck napisany w C++.
 
-Jêzyk f*ckf*ck jest opisany pod
+JÄ™zyk f*ckf*ck jest opisany pod
 http://www.chilliwilli.co.uk/ff/index.html .
 
 %prep
