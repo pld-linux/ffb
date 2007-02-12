@@ -1,5 +1,5 @@
 Summary:	f*ckf*ckb**b - a f*ckf*ck interpreter written in C++
-Summary(pl.UTF-8):   f*ckf*ckb**b - interpreter języka f*ckf*ck napisany w C++
+Summary(pl.UTF-8):	f*ckf*ckb**b - interpreter języka f*ckf*ck napisany w C++
 Name:		ffb
 Version:	0.2
 Release:	1
